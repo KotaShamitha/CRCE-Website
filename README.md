@@ -15,4 +15,7 @@ Take lot of time for scanning items
 
 ![image](https://github.com/KotaShamitha/Digitally-automated-mart/assets/141522120/0e9e8a36-6375-402b-a0e7-3216b87ac792)
 
+GUI Screenshots:
 ![image](https://github.com/KotaShamitha/Digitally-automated-mart/assets/141522120/24ac342c-59f5-4850-ab1f-adcc383df170)
+
+Prototype Picture:![image](https://github.com/KotaShamitha/Digitally-automated-mart/assets/141522120/00d92e5a-b589-4c5f-9fbd-5099073d6717)
