@@ -1,4 +1,3 @@
-![image](https://github.com/KotaShamitha/Digitally-automated-mart/assets/141522120/be5f611b-68ff-4bc7-ad37-647855a139d4)![image](https://github.com/KotaShamitha/Digitally-automated-mart/assets/141522120/97b3ad9e-5dfe-4845-ab57-2b11ff4c9da9)# Digitally-automated-mart
 Gmart is a goods & Grocery deliver service available to all the individuals which makes their shopping ease.
 Shopping experiences are growing more revolutionary; first, sand finally, online shopping. The self-checkout lines appeared, followed by supermarket shelves were introduced, followed by barcode scanners, online purchasing. 
 This cutting-edge technology aims to bridge the gap between the online and offline worlds.
