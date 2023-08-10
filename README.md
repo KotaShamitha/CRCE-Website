@@ -15,3 +15,5 @@ Carrying baskets
 Take lot of time for scanning items
 
 ![image](https://github.com/KotaShamitha/Digitally-automated-mart/assets/141522120/0e9e8a36-6375-402b-a0e7-3216b87ac792)
+
+![Uploading image.png…]()
